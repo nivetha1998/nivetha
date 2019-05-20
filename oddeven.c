@@ -1,5 +1,5 @@
 #include<stdio.h>
-int main()
+void main()
 {
   int num;
   printf("enter the number\n");
@@ -16,7 +16,7 @@ int main()
   }
   else
   {
-    prinft("invalid");
+    printf("invalid");
   }
   }
 }
