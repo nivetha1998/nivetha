@@ -7,8 +7,11 @@ main()
   {
     printf("vowel",ch);
   }
+  else if(isalpha(ch))                                                                                                                                                                                                                                                                                                                                                                                                    
+  {
+    printf("consonant",ch);
+  }
   else
   {
     printf("invalid",ch);
-  }
 }
