@@ -6,5 +6,5 @@ main()
   if(isalpha(c))
     printf("Alphabet");
   else
-    printf("no");
+    printf("No");
  }
