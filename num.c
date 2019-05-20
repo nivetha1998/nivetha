@@ -2,13 +2,11 @@
 int main()
 {
   int n;
-  printf("enter a number \n");
   scanf("%d",&n);
 if (n>0)
-  printf(" the number is positive");
+  printf("  positive");
 else if(n<0)
-  printf("the number is negative");
+  printf(" negative");
 else if(n==0)
-  printf("the number is zero");
-return 0;
+  printf(" zero");
 }
