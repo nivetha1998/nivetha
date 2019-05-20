@@ -14,9 +14,9 @@ void main()
   {
       printf("odd");
   }
+ }
   else
   {
     printf("invalid");
-  }
-  }
+  }  
 }
