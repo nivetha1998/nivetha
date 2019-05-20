@@ -4,7 +4,7 @@ main()
   char c;
   scanf("%s",&c);
   if(isalpha(c))
-    printf("alphabet");
+    printf("Alphabet");
   else
     printf("no");
  }
