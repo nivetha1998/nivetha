@@ -14,4 +14,5 @@ for(i=0;i<num;i++)
     }
  }
  printf("%d",largest);
-	return 0;
+return 0;
+}
