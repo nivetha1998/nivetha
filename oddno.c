@@ -7,7 +7,7 @@ for(i=l1+1;i<l2;i++)
 {
   if(i%2==1)
     {
-      printf("%d\t",i);
+      printf("%d",i);
     }
  }
  }
