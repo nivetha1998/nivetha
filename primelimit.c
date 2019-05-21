@@ -15,7 +15,7 @@ for(i=2;i<=low/2;++i)
    }
 }
 if(flag==0)
-printf("%d\n",low);
+printf("%d\t",low);
 ++low;
 }
 }
