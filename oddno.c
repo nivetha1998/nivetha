@@ -3,11 +3,11 @@ main()
 {
 int l1,l2,i;
 scanf("%d%d",&l1,&l2);
-for(i=l1+1;i<l2;i++)
+for(i=l1+1;i<l2;++i)
 {
   if(i%2==1)
     {
-      printf("%d",i);
+      printf("%d\t",i);
     }
  }
  }
