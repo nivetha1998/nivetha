@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 main {
 	 int i, j, a, n, number[30];
         scanf("%d", &n);
@@ -26,5 +25,4 @@ main {
         }
         for (i = 0; i < n; ++i)
             printf("%d\t", number[i]);
-	return 0;
 }
