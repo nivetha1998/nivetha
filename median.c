@@ -20,3 +20,4 @@ int i, j, temp, n, a[50],median;
         }
  median=(n+1)/2;
  printf("%d",a[median]);
+}
