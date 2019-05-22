@@ -1,6 +1,7 @@
 #include <stdio.h>
-main {
-	 int i, j, a, n, number[30];
+main() 
+{
+int i, j, a, n, number[30];
         scanf("%d", &n);
         for (i = 0; i < n; ++i)
             scanf("%d", &number[i]);
