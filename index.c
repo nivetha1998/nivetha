@@ -2,13 +2,13 @@
 main()
 {
 int n,a[30],i;
-scanf("%"d,&n);
+scanf("%d",&n);
 for(i=0;i<n;i++)
 {
   scanf("%d",&a[i]);
  }
  for(i=0;i<n;i++)
  {
-  printf("%d%d",a[i],i);
+  printf("%d %d\n",a[i],i);
   }
  }
